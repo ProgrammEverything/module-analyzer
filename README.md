@@ -14,7 +14,7 @@ Content:
 ------
         This is an example function
 ```
-This is a simple code which is useful.
-Please note that running this program just results in a example app being run.
-You have to modify this code (In accordance to the license which can change) for this app to be useful.
+This is a simple code which is useful. \
+Please note that running this program just results in a example app being run. \
+You have to modify this code (In accordance to the license) for this app to be useful. \
 I hope this helps!
