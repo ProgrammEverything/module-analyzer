@@ -13,8 +13,6 @@ Content:
 ------self: Any NODEFAULT
 ------
         This is an example function
-
-
 ```
 This is a simple code which is useful.
 Please note that running this program just results in a example app being run.
