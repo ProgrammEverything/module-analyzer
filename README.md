@@ -1,7 +1,6 @@
 # module-analyzer
 This is a simple program to analyze your program structure
 Example:
-```
 Page ExampleClass
 Content:
 ```
@@ -16,7 +15,6 @@ Content:
         This is an example function
 
 
-```
 ```
 This is a simple code which is useful.
 Please note that running this program just results in a example app being run.
